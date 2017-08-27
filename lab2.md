@@ -25,16 +25,16 @@ Seguido de esto verificamos la version de java y de javac(compilador de java) qu
 ### Agregación
 Empezamos con la clase Point.Java:
 1. Propiedades:
-a. x: int.
-b. y: int.
+> * x: int.
+> * y: int.
 2. Métodos y Procedimientos:
-- Point()
-- Point(x:int, y:int)
-- Getters y Setters para ambas propiedades
-- toString():String
-- distance(x:int, y:int):double
-- distance(otro:Point):double
-- distance():double
+  - Point()
+  - Point(x:int, y:int)
+  - Getters y Setters para ambas propiedades
+  - toString():String
+  - distance(x:int, y:int):double
+  - distance(otro:Point):double
+  - distance():double
 
 
 ![](https://image.ibb.co/iMHbsQ/img2.png)
