@@ -18,7 +18,22 @@ temas trabajados y a las herramientas que fueron utilizadas para realizar está 
 > indica lo que hace es "tomar muchas formas". El polimorfismo funciona de igual manera que la herencia pero solo con métodos y no
 > extiende a la clase existente porque los métodos bien pueden ser de clases totalmente independientes entre sí.
 ## Documentación 
-![](https://image.ibb.co/heQUCQ/img.png)
+Primero para ingresar al proyecto es necesario utilizar el comando "cd" seguido de el nombre del nombre de la carpeta a la que vamos a ingresar
+![1](https://image.ibb.co/heQUCQ/img.png)
+https://image.ibb.co/eJ9d6k/img1.png
+https://image.ibb.co/iMHbsQ/img2.png
+https://image.ibb.co/bxqwsQ/img3.png
+![2](https://image.ibb.co/iimQmk/img4.png)
+https://image.ibb.co/hznWRk/img5.png
+https://image.ibb.co/kURQmk/img6.png
+https://image.ibb.co/gsR2XQ/img7.png
+https://image.ibb.co/gJySz5/img8.png
+https://image.ibb.co/mDVwsQ/img9.png
+https://image.ibb.co/egLJ6k/img10.png
+https://image.ibb.co/kdupCQ/img11.png
+https://image.ibb.co/hijZe5/img12.png
+https://image.ibb.co/hiWrRk/main.png
+https://image.ibb.co/jgZBRk/main1.png
 ### Agregación
 
 ### Herencia
