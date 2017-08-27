@@ -18,7 +18,7 @@ temas trabajados y a las herramientas que fueron utilizadas para realizar está 
 > indica lo que hace es "tomar muchas formas". El polimorfismo funciona de igual manera que la herencia pero solo con métodos y no
 > extiende a la clase existente porque los métodos bien pueden ser de clases totalmente independientes entre sí.
 ## Documentación 
-![1](https://drive.google.com/open?id=0B337Jv5WyEHPRlJVMDFOdHF1Qm8/view)
+![](https://image.ibb.co/heQUCQ/img.png)
 ### Agregación
 
 ### Herencia
