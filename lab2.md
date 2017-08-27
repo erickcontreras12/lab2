@@ -18,24 +18,38 @@ temas trabajados y a las herramientas que fueron utilizadas para realizar está 
 > indica lo que hace es "tomar muchas formas". El polimorfismo funciona de igual manera que la herencia pero solo con métodos y no
 > extiende a la clase existente porque los métodos bien pueden ser de clases totalmente independientes entre sí.
 ## Documentación 
-Primero para ingresar al proyecto es necesario utilizar el comando "cd" seguido de el nombre del nombre de la carpeta a la que vamos a ingresar
-![1](https://image.ibb.co/heQUCQ/img.png)
-https://image.ibb.co/eJ9d6k/img1.png
-https://image.ibb.co/iMHbsQ/img2.png
-https://image.ibb.co/bxqwsQ/img3.png
-![2](https://image.ibb.co/iimQmk/img4.png)
-https://image.ibb.co/hznWRk/img5.png
-https://image.ibb.co/kURQmk/img6.png
-https://image.ibb.co/gsR2XQ/img7.png
-https://image.ibb.co/gJySz5/img8.png
-https://image.ibb.co/mDVwsQ/img9.png
-https://image.ibb.co/egLJ6k/img10.png
-https://image.ibb.co/kdupCQ/img11.png
-https://image.ibb.co/hijZe5/img12.png
-https://image.ibb.co/hiWrRk/main.png
-https://image.ibb.co/jgZBRk/main1.png
+Primero para ingresar al proyecto es necesario utilizar el comando "cd" seguido de el nombre del nombre de la carpeta a la que vamos a ingresar.
+![](https://image.ibb.co/heQUCQ/img.png)
+Seguido de esto verificamos la version de java y de javac(compilador de java) que tiene nuestro ordenadory después de haber verificado que nuestro ordenador tiene lo necesario para continuar ya podemos proseguir a crear las clases necesarias para cada ejercicio propuesto.
+![](https://image.ibb.co/hznWRk/img5.png)
 ### Agregación
+Empezamos con la clase Point.Java:
+~Propiedades:
+a.x: int.
+b.y: int.
+~Métodos y Procedimientos:
+-Point()
+-Point(x:int, y:int)
+-Getters y Setters para ambas propiedades
+-toString():String
+-distance(x:int, y:int):double
+-distance(otro:Point):double
+-distance():double
 
+
+![](https://image.ibb.co/iMHbsQ/img2.png)
+![](https://image.ibb.co/eJ9d6k/img1.png)
+![](https://image.ibb.co/bxqwsQ/img3.png)
+![](https://image.ibb.co/k3Pvmk/img4.png)
+![](https://image.ibb.co/kURQmk/img6.png)
+![](https://image.ibb.co/gsR2XQ/img7.png)
+![](https://image.ibb.co/d6ycz5/img8.png)
+![](https://image.ibb.co/ma24e5/img9.png)
+![](https://image.ibb.co/egLJ6k/img10.png)
+![](https://image.ibb.co/kdupCQ/img11.png)
+![](https://image.ibb.co/hijZe5/img12.png)
+![](https://image.ibb.co/hiWrRk/main.png)
+![](https://image.ibb.co/jgZBRk/main1.png)
 ### Herencia
 
 ## Enlaces de referencia
