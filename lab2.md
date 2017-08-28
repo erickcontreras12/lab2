@@ -112,7 +112,20 @@ Está es la clase principal de la cual se derivan las dos siguientes
 Los métodos más importantes a explicar son los dos ultimos. Empezando con addCourseGrade() que pide como parametros el nombre del curso y la califación final obtenida en este, para luego con una variable inicial de 0(x) que se incrementa después de cada ejecución para ir llenando de manera automática cada espacio de ambos arreglos. Luego está el método printGrades() que contiene un ciclo for para imprimir las veces que sea necesario y así mostrar todos los elementos de ambos arreglos.
 
 ##### Clase Teacher.java
+1. Propiedades:
+> * numCursos:int
+> * cursos:String[]
+2. Métodos y Procedimientos:
+> - Teacher(name:String, adress:String)
+> - toString():String
+> - Getters y Setters para las propiedades
+> - addCourse(curse:String)
+> - removeCourse(curse:String)
+
 ![](https://image.ibb.co/d6ycz5/img8.png)
+El método addCourse() inicia buscando dentro del arreglo haber si existe ya un curso con el nombre del que se desea agregar y si encuentra una coincidencia retorna el valor false para indicarle al usuario que ya existe este curso, de lo contrario ingresa el nuevo curso en el primer espacio vacío del arreglo.
+
+Y de igual manera con un ciclo for el método removeCourse() busca una coincidencia dentro del arreglo para eliminar el curso deseado y si no la encuentra retorna el valor false, para indicar que el curso es inexistente.
 ![](https://image.ibb.co/ma24e5/img9.png)
 
 ##### Clase Main.java
