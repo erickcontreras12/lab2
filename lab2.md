@@ -84,8 +84,34 @@ Sabemos que las clases compilaron y no hay ningún error en el código fuente ya
 ### Herencia
 #### Clases
 ##### Clase Person.java
+1. Propiedades:
+> * nombre:String
+> * direccion:String
+2. Métodos y Procedimientos:
+> - Person(name:String, adress:String)
+> - toString():String
+> - Getters y Setters para ambas propiedades
+
+Está es la clase principal de la cual se derivan las dos siguientes
+
+##### Clase Student.java
+1. Propiedades:
+> * numCursos:int
+> * cursos:String[]
+> * notas:int[]
+2. Métodos y Procedimientos:
+> - Student(name:String, adress:String)
+> - toString():String
+> - Getters y Setters para las propiedades
+> - addCourseGrade(curse:String, note:int)
+> - printGrades()
+
 ![](https://image.ibb.co/eJ9d6k/img1.png)
 ![](https://image.ibb.co/bxqwsQ/img3.png)
+
+Los métodos más importantes a explicar son los dos ultimos. Empezando con addCourseGrade() que pide como parametros el nombre del curso y la califación final obtenida en este, para luego con una variable inicial de 0(x) que se incrementa después de cada ejecución para ir llenando de manera automática cada espacio de ambos arreglos. Luego está el método printGrades() que contiene un ciclo for para imprimir las veces que sea necesario y así mostrar todos los elementos de ambos arreglos.
+
+##### Clase Teacher.java
 ![](https://image.ibb.co/d6ycz5/img8.png)
 ![](https://image.ibb.co/ma24e5/img9.png)
 
