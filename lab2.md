@@ -26,6 +26,8 @@ Primero para ingresar al proyecto es necesario utilizar el comando "cd" seguido 
 
 
 Seguido de esto verificamos la version de java y de javac(compilador de java) que tiene nuestro ordenadory después de haber verificado que nuestro ordenador tiene lo necesario para continuar ya podemos proseguir a crear las clases necesarias para cada ejercicio propuesto.
+
+
 ![](https://image.ibb.co/hznWRk/img5.png)
 ### Agregación
 #### Clases
@@ -44,6 +46,7 @@ Seguido de esto verificamos la version de java y de javac(compilador de java) qu
 
 ![](https://image.ibb.co/iMHbsQ/img2.png)
 ![](https://image.ibb.co/kdupCQ/img11.png)
+
 Los procedimientos de nombre distance son 3, y no hay error en ello porque son los parametros de cada uno lo que los hace únicos a cada unos de ellos y estos tres procedimientos son los que más explicación necesitan. Los tres métodos realizan la misma acción, caluclar la distancia desde el punto que ingresa el usuario en la clase Main hasta un punto diferente que es declarado en los parámetros de cada función.
 
 - distance(x:int, y:int):double / Calcula la distancia a un punto de coordenadas (x,y), y el usuario ingresa individualmente y directamente el valor de "x" y "y"
@@ -123,6 +126,8 @@ Los métodos más importantes a explicar son los dos ultimos. Empezando con addC
 > - removeCourse(curse:String)
 
 ![](https://image.ibb.co/d6ycz5/img8.png)
+
+
 El método addCourse() inicia buscando dentro del arreglo haber si existe ya un curso con el nombre del que se desea agregar y si encuentra una coincidencia retorna el valor false para indicarle al usuario que ya existe este curso, de lo contrario ingresa el nuevo curso en el primer espacio vacío del arreglo.
 
 Y de igual manera con un ciclo for el método removeCourse() busca una coincidencia dentro del arreglo para eliminar el curso deseado y si no la encuentra retorna el valor false, para indicar que el curso es inexistente.
